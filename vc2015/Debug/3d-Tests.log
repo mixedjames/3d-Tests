@@ -1,0 +1,5 @@
+﻿  basic-test.cpp
+d:\data\3d-tests\src\basic-test.cpp(120): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\data\3d-tests\src\basic-test.cpp(122): warning C4305: 'argument': truncation from 'double' to 'float'
+  3d-Tests.vcxproj -> D:\data\3d-Tests\vc2015\Debug\3d-Tests.exe
+  3d-Tests.vcxproj -> D:\data\3d-Tests\vc2015\Debug\3d-Tests.pdb (Partial PDB)
